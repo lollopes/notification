@@ -1,0 +1,110 @@
+{
+  "project_info": {
+    "project_number": "1034522228149",
+    "firebase_url": "https://ledtest-5ef67.firebaseio.com",
+    "project_id": "ledtest-5ef67",
+    "storage_bucket": "ledtest-5ef67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034522228149:android:d34f99077c7eb546",
+        "android_client_info": {
+          "package_name": "ca.concordia.ledsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034522228149-kapkcfgdfj81mbqv11h277e0inulikvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.concordia.ledsample",
+            "certificate_hash": "06c26c091eaba0b7265bf68b10578dd9d040eb8f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlFVg1--u9qr-WNv5dSaFbKBB1ZvkPLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034522228149-nd2uku44h2dl8apbnpm3infqp9qp4c8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034522228149:android:4fa9c23549bdea66",
+        "android_client_info": {
+          "package_name": "com.example.lollo.led_test_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034522228149-aqoklrcm9af57fe0nine0a18kql8qgfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lollo.led_test_2",
+            "certificate_hash": "3e2a84cfaef1e1cef2382cfed92b9da84b16dc27"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlFVg1--u9qr-WNv5dSaFbKBB1ZvkPLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034522228149-nd2uku44h2dl8apbnpm3infqp9qp4c8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034522228149:android:8bc3eac410ee595e",
+        "android_client_info": {
+          "package_name": "com.example.lollo.read_led_from_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034522228149-sp8bg4cgq7p36p3qf9i2rcdgjr6p6qbk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lollo.read_led_from_firebase",
+            "certificate_hash": "3e2a84cfaef1e1cef2382cfed92b9da84b16dc27"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlFVg1--u9qr-WNv5dSaFbKBB1ZvkPLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034522228149-nd2uku44h2dl8apbnpm3infqp9qp4c8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
